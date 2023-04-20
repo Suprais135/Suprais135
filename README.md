@@ -1,6 +1,6 @@
 ## Seja bem vindo(a) ao meu git!
 
-Olá, meu nome é João Pedro, sou um programador iniciante que está se concentrando no desenvolvimento front-end com planos de estudar back-end no futuro. Tenho 19 anos, estou estudando JavaScript. Também possuo habilidades avançadas de design e edição de imagens. Tenho como hobby jogar jogos digitais e escrever RPGs de mesa quando não estou programando. Apesar da falta de experiência profissional, estou ansioso para desenvolver meus talentos e trabalhar em projetos interessantes. Estou constantemente intrigado e entusiasmado com as possibilidades criativas que a programação oferece.
+Olá, meu nome é João Pedro, sou um programador iniciante que está se concentrando no desenvolvimento front-end com planos de estudar back-end no futuro. Tenho 19 anos, atualmente estudando JavaScript. Também possuo habilidades avançadas de design, marketing digital e edição de imagens. Tenho como hobby jogar jogos digitais e escrever RPGs de mesa quando não estou programando. Apesar da falta de experiência profissional, estou ansioso para desenvolver meus talentos e trabalhar em projetos interessantes. Estou constantemente intrigado e entusiasmado com as possibilidades criativas que a programação oferece.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
